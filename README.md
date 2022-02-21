@@ -3,19 +3,16 @@ a router dump with collection info
 > [@Suroy](https://suroy.cn) ｜ 2022.2.21
 
 ## 目录结构
-|____LICENSE
-|____router-info.sh # 核心运行文件
-|____web # api接口
-| |____app.php
-| |____.DS_Store
-| |____app.php.bak
-| |____app-router.php.bak
-| |____app-router.php
-| |____data
-| | |____demo.txt
-| | |____1.txt
-| | |____.htaccess
-|____README.md
+|____LICENSE  
+|____router-info.sh # 核心运行文件  
+|____web # api接口  
+| |____app.php  
+| |____app-router.php  
+| |____data  
+| | |____demo.txt  
+| | |____1.txt  
+| | |____.htaccess  
+|____README.md  
 
 ## 定时任务
 使用 crontab 设置定时任务
